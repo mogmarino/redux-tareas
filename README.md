@@ -8,6 +8,7 @@ A simple React application using Redux for state management, built with Redux To
 - **Task Selection**: Allows users to select tasks with checkboxes, storing selected tasks in Redux store.
 - **Navigation**: Two routes to switch between task list and selected task view.
 - **State Management**: Utilizes Redux Toolkit for managing local state and Redux Toolkit Query for API requests.
+- **Vite**: Vite is used as the build tool for faster development and optimized builds.
 
 ## 📂 Tech Stack
 
@@ -27,4 +28,4 @@ A simple React application using Redux for state management, built with Redux To
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/mogmarino/redux-tareas.git
-   cd Redux-Blog
+   cd redux-tareas
